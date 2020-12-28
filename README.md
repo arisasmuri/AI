@@ -1,1 +1,1 @@
-# AI
+# deteksi objek menggunakan algoritma CNN
